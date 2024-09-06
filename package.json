@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "publisher": "navinAce",
   "license": "MIT",
+  "icon": "images/logo.png",
   "author": {
     "name": "Navinraj Nadar",
     "email": "navinraj99305@gmail.com"
