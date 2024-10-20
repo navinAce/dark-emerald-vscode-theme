@@ -41,6 +41,9 @@
   "categories": [
     "Themes"
   ],
+  "extension": {
+    "changelog": "./CHANGELOG.md"
+  },
   "contributes": {
     "themes": [
       {
