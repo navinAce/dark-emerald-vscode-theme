@@ -4,6 +4,9 @@ All notable changes to the "dark-emerald" extension will be documented in this f
 
 ## Changelog for Dark Emerald VS Code Theme
 
+### Version 2.0.2 (Released on 20/10/2024)
+**Add:** Introduced a changelog (CHANGELOG.md) to provide a structured overview of changes in version.
+
 ### Version 2.0.1 (Released on 20/10/2024)
 **Update:** Updated to be compatible with VS Code version 1.94.2.
 **Enhancement:** Improved contrast for certain keywords, making them more readable.  
