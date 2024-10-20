@@ -36,7 +36,7 @@
     "dark-visual-studio-code-syntax-highlighting"
   ],
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "^1.94.2"
   },
   "categories": [
     "Themes"
